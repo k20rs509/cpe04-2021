@@ -13,6 +13,7 @@ button {
 #btnA {
   background-color: yellow;
   color: green;
+  font-weight: bold;
 }
 
     #minuteStr {
